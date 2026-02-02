@@ -1,2 +1,3 @@
 # 232-Logic-Design---Verilog
-My homework from METU 232 Course
+Basic homework and stuff that we did as group of three, mostly using verilog and FPGA board. 
+Some of them is basic circuit design.
